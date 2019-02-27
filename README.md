@@ -13,6 +13,7 @@ Please submit the form to save your information in my database.
   <input type="radio" name="gender" value="Rojo" checked>Rojo<br>
   <input type="radio" name="gender" value="Azul"> Azul<br>
   <input type="radio" name="gender" value="Amarillo"> Amarillo
+  <input type="submit" value="Submit"> 
 </form>
 		</div>
 	</div>
