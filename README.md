@@ -22,7 +22,6 @@ p    {color: purple;}
   	<input type="radio" name="gender" value="Azul"> Azul<br>
   	<input type="radio" name="gender" value="Amarillo"> Amarillo<br>
   	<input type="submit" value="Submit"> 
-	<p> Hit submit!</p>
 </fieldset>
 </form>
 	</div>
