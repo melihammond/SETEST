@@ -1,8 +1,13 @@
 # WELCOME TO MY LANDING PAGE
 <html>
 <body>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 
-<h2>Please submit the form to save your information in my database</h2>
+<h1>Please submit the form to save your information in my database</h1>
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
@@ -16,6 +21,7 @@
   <input type="radio" name="gender" value="Azul"> Azul<br>
   <input type="radio" name="gender" value="Amarillo"> Amarillo<br>
   <input type="submit" value="Submit"> 
+	<p> Hit submit!</p>
 </form>
 		</div>
 	</div>
