@@ -1,12 +1,12 @@
 # WELCOME TO MY LANDING PAGE
 <html>
-<body>
+
 <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
 p    {color: red;}
 </style>
-
+<body>
 <h1>Please submit the form to save your information in my database</h1>
 <div class="container-fluid">
 	<div class="row">
