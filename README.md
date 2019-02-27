@@ -2,9 +2,9 @@
 <html>
 
 <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
+body {background-color: gray;}
+h1   {color: powderblue;}
+p    {color: purple;}
 </style>
 <body>
 <h1>Please submit the form to save your information in my database</h1>
