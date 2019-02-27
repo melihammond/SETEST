@@ -11,7 +11,7 @@ p    {color: red;}
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
-<form action="/action_page.php">
+<form action="/action_page.php" target="_blank">
   First name:<br>
   <input type="text" name="firstname"><br>
   Last name:<br>
