@@ -1,4 +1,3 @@
-# WELCOME TO MY LANDING PAGE
 <html>
 
 <style>
@@ -7,7 +6,8 @@ h1   {color: powderblue;}
 p    {color: purple;}
 </style>
 <body>
-<h1>Please submit the form to save your information in my database</h1>
+<h1>WELCOME TO MY LANDING PAGE<h1>
+<h2>Please submit the form to save your information in my database</h2>
 	<div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
