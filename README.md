@@ -10,9 +10,9 @@ Please submit the form to save your information in my database.
   Last name:<br>
   <input type="text" name="lastname"><br>
   Favorite color:<br>
-  <input type="radio" name="gender" value="Rojo" checked> Male<br>
-  <input type="radio" name="gender" value="Azul"> Female<br>
-  <input type="radio" name="gender" value="Amarillo"> Other
+  <input type="radio" name="gender" value="Rojo" checked>Rojo<br>
+  <input type="radio" name="gender" value="Azul"> Azul<br>
+  <input type="radio" name="gender" value="Amarillo"> Amarillo
 </form>
 		</div>
 	</div>
